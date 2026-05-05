@@ -67,3 +67,12 @@ Port : 443
 Password : "free"
 Secure : true
 ```
+### Hosted by @ [Team RRZ](https://linktr.ee/teamrrz)
+Version 4.x.x | Plugins: youtube-plugin, lavasrc-plugin, lavasearch-plugin | Quality: opusEncodingQuality = 10, resamplingQuality = HIGH
+
+```bash
+Host : lavalink2.teamrrz.qzz.io
+Port : 443
+Password : "https://linktr.ee/teamrrz"
+Secure : true
+```

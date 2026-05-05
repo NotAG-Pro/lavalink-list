@@ -127,3 +127,11 @@ Port : 2333
 Password : youshallnotpass
 Secure : False
 ```
+### Hosted by @ [G3V](https://linktr.ee/teamrrz)
+Version 4.x.x | Plugins: youtube-plugin, lavasrc-plugin, lavasearch-plugin | Quality: opusEncodingQuality = 10, resamplingQuality = HIGH
+```bash
+Host : lavalink2.teamrrz.qzz.io
+Port : 80
+Password : "https://linktr.ee/teamrrz"
+Secure : false
+```
