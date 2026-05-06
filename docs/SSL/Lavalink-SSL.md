@@ -70,6 +70,12 @@ Secure : true
 ### Hosted by @ [Team RRZ](https://linktr.ee/teamrrz)
 Version 4.x.x | Plugins: youtube-plugin, lavasrc-plugin, lavasearch-plugin | Quality: opusEncodingQuality = 10, resamplingQuality = HIGH
 
+![Status](https://dashlava.teamrrz.qzz.io/badge/status)
+![Bots](https://dashlava.teamrrz.qzz.io/badge/players)
+![Uptime](https://dashlava.teamrrz.qzz.io/badge/uptime)
+![CPU](https://dashlava.teamrrz.qzz.io/badge/cpu)
+![RAM](https://dashlava.teamrrz.qzz.io/badge/memory)
+
 ```bash
 Host : lavalink2.teamrrz.qzz.io
 Port : 443
