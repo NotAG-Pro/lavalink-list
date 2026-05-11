@@ -79,6 +79,6 @@ Version 4.x.x | Plugins: youtube-plugin, lavasrc-plugin, lavasearch-plugin | Qua
 ```bash
 Host : lavalink2.teamrrz.qzz.io
 Port : 443
-Password : "https://linktr.ee/teamrrz"
+Password : "linktr.ee/teamrrz"
 Secure : true
 ```
